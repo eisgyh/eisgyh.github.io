@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://eisgyh.github.io/sitemap.html.gz
+Sitemap: https://eisgyh.github.io/app/sitemap.html.gz
+Sitemap: https://eisgyh.github.io/assets/sitemap.html.gz
+Sitemap: https://eisgyh.github.io/css/sitemap.html.gz
+Sitemap: https://eisgyh.github.io/data/sitemap.html.gz
+Sitemap: https://eisgyh.github.io/includes/sitemap.html.gz
+Sitemap: https://eisgyh.github.io/item/sitemap.html.gz
+Sitemap: https://eisgyh.github.io/src/sitemap.html.gz
